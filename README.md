@@ -113,7 +113,18 @@ This project is licensed under the **MIT License**.
 📝 Author  
 Sharon Cynthiya J 
 B.E. Computer Science and Engineering
+------------------------------------------------------------
+## Project Overview
+A JSP-based web application developed as part of Web Technologies coursework.
 
+## Features
+- User input handling
+- Form submission
+- Dynamic page rendering
+
+## Limitations
+- No authentication
+- Basic validation only
 
 
 
